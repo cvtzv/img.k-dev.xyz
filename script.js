@@ -49,4 +49,5 @@ async function displayImages() {
     }
 }
 
+// DisplayImages
 displayImages();
