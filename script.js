@@ -1,5 +1,5 @@
-import { initializeApp } from "https://cdnjs.cloudflare.com/ajax/libs/firebase/9.23.0/firebase-app.min.js";
-import { getStorage, ref, uploadBytes, getDownloadURL, listAll } from "https://cdnjs.cloudflare.com/ajax/libs/firebase/9.23.0/firebase-storage.min.js";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
+import { getStorage, ref, uploadBytes, getDownloadURL, listAll } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-storage.js";
 
 const firebaseConfig = {
     apiKey: "AIzaSyBzOZ4y5O37SSJvfZnveWNhTxZX10wA_6g",
